@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="data_nome" translatable="false">%s Digitou as %s</string>
+</resources>

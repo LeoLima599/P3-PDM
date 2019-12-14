@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "794722975814",
+    "firebase_url": "https://p3-bossini.firebaseio.com",
+    "project_id": "p3-bossini",
+    "storage_bucket": "p3-bossini.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794722975814:android:9d7feb8cbcf4425f99ca47",
+        "android_client_info": {
+          "package_name": "br.com.bossini.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794722975814-meh3naj70cj5qklpolk581ugvp9md7d2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.bossini.myapplication",
+            "certificate_hash": "7ab45682986562ab706d27f54b705eacb361df3c"
+          }
+        },
+        {
+          "client_id": "794722975814-hc1pnkh8ngnj1itqlolfmieh4a6lob07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApVA1ypKDvbdlRybTfV0UA4fBn9nkQZFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794722975814-hc1pnkh8ngnj1itqlolfmieh4a6lob07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
